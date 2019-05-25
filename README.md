@@ -1,1 +1,6 @@
-# readme-guide
+# Readme cheat-sheet
+
+
+| Description  | Markdown syntax                                                                                 |
+|--------------|-------------------------------------------------------------------------------------------------|
+| H1           | <pre># Heading 1 </pre>                                                                         |
