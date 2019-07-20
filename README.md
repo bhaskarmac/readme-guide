@@ -9,12 +9,39 @@
 
 ## Headings
 
+# Heading 1
+
 <pre>
 # Heading 1
+</pre>
+
 ## Heading 2
+
+<pre>
+## Heading 2
+</pre>
+
 ### Heading 3
+
+<pre>
+### Heading 3
+</pre>
+
 #### Heading 4
+
+<pre>
+#### Heading 4
+</pre>
+
 ##### Heading 5
+
+<pre>
+##### Heading 5
+</pre>
+
+###### Heading 6
+
+<pre>
 ###### Heading 6
 </pre>
 ---
@@ -25,13 +52,20 @@
 </pre>
 ---
 
-*Bold*
+**Bold**
 <pre>
 	**This text is bold**
 </pre>
 ---
 
-Blockquote
+### Blockquote
+
+> Blockquote paragraphs must have
+> a right-arrow bracket at the start
+> of every single line.
+>
+> Use a blank line for multiple paragraphs.
+
 <pre>
 > Blockquote paragraphs must have
 > a right-arrow bracket at the start
@@ -41,7 +75,11 @@ Blockquote
 </pre>
 ---
 
-Unordered List
+### Unordered List
+- Bullet list item
+- Bullet list item
+- Bullet list item
+  - Use a two-space indent for nested lists
 <pre>
 - Bullet list item
 - Bullet list item
@@ -50,7 +88,11 @@ Unordered List
 </pre>
 ---
 
-Ordered List
+### Ordered List
+1. Bullet list item
+2. Bullet list item
+3. Bullet list item
+  1. Ordered lists can also be nested
 <pre>
 1. Bullet list item
 2. Bullet list item
